@@ -5,11 +5,11 @@ I created a TextEditorApp with java implementing Stacks with arrays.
 
 # 📌 How to Run:
 
-Save as TextEditorApp.java
+* Save as TextEditorApp.java
 
-Compile: javac TextEditorApp.java
+* Compile: javac TextEditorApp.java
 
-Run: java TextEditorApp
+* Run: java TextEditorApp
 
 
 
